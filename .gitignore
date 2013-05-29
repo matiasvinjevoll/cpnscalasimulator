@@ -26,3 +26,5 @@
 *.mtc1
 *.out
 *.synctex.gz
+
+org.cpntools.accesscpn.*
