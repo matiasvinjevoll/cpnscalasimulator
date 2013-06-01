@@ -28,3 +28,4 @@
 *.synctex.gz
 
 org.cpntools.accesscpn.*
+.metadata*
