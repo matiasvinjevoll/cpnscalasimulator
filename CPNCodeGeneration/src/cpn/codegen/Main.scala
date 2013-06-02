@@ -22,8 +22,7 @@ object Main extends App {
 
   val tnet =
     new TransformNet(
-      "file:\\Users\\Matias\\Skule\\Master\\CPN Models\\Chapter3\\" +
-        "\\simple_protocol_scala_hier_presentation.cpn")
+      "file:\\...")
   val net = tnet.transformNet()
   // -------------------------------------------------------------------
   // ------------------------- Process CPN -----------------------------
